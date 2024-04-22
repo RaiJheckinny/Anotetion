@@ -1,3 +1,3 @@
-@Tabela(value = "Tabela De Carros")
+@Tabela(value = "Tabela de Carro")
 public class Demo {
 }
